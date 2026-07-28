@@ -1,11 +1,11 @@
 # PROYECTOS DE VACACIONES 
 
 ### PLAN VACAS DE INVIERNO 2026
-- Estudiar Bash (para una materia del segndo cuatri) <br>
+- Estudiar Bash (para una materia del segndo cuatri) <br> <br>
 ✅ ~~Leer el libro de Arquitectura de Computadoras~~
 - Meter IA en la compu y ver todos los videos de IA
 - Hacer una app con java
-- Revisar resumenes (tambien los de Notion), sacar lo que no sirva y subirlos. <br>
+- Revisar resumenes (tambien los de Notion), sacar lo que no sirva y subirlos. <br> <br>
 ✅ ~~Redibujar foto perfil~~
 
 ---

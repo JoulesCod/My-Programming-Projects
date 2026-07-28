@@ -2,10 +2,11 @@
 
 ### PLAN VACAS DE INVIERNO 2026
 - Estudiar Bash (para una materia del segndo cuatri)
-- Leer el libro de Arquitectura de Computadoras 
+✅ ~~Leer el libro de Arquitectura de Computadoras~~
 - Meter IA en la compu y ver todos los videos de IA
 - Hacer una app con java
 - Revisar resumenes (tambien los de Notion), sacar lo que no sirva y subirlos.
+✅ ~~Redibujar foto perfil~~
 
 ---
 ### PLAN VACAS DE VERANO 2025

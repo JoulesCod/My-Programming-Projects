@@ -2,10 +2,10 @@
 
 ### PLAN VACAS DE INVIERNO 2026
 ✅ ~~Leer el libro de Arquitectura de Computadoras~~
+✅ ~~Redibujar foto perfil~~
 - Meter IA en la compu y ver todos los videos de IA
 - Hacer una app con java
 - Revisar resumenes (tambien los de Notion), sacar lo que no sirva y subirlos. <br> 
-✅ ~~Redibujar foto perfil~~
 
 ---
 ### PLAN VACAS DE VERANO 2025

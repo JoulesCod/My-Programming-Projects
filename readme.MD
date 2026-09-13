@@ -1,7 +1,7 @@
 # PROYECTOS DE VACACIONES 
 
 ### PLAN VACAS DE INVIERNO 2026
-✅ ~~Leer el libro de Arquitectura de Computadoras~~
+✅ ~~Leer el libro de Arquitectura de Computadoras~~ <br>
 ✅ ~~Redibujar foto perfil~~
 - Meter IA en la compu y ver todos los videos de IA
 - Hacer una app con java
